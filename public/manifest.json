@@ -1,0 +1,33 @@
+{
+  "name": "Share Thought",
+  "short_name": "Share Thought",
+  "start_url": "./?utm_source=web_app_manifest",
+  "display": "standalone",
+  "theme_color": "#6284F3",
+  "background_color": "#6284F3",
+  "icons": [{
+    "src": "icon/homescreen57.png",
+    "sizes": "57x57",
+    "type": "image/png"
+  }, {
+    "src": "icon/homescreen114.png",
+    "sizes": "114x114",
+    "type": "image/png"
+  }, {
+    "src": "icon/homescreen128.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  }, {
+    "src": "icon/homescreen144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "icon/homescreen192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "icon/homescreen512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
