@@ -1,5 +1,6 @@
 # Share-Your-Thoughts
 Simple Firebase and PWA CodeLab For Google I/O18 Extended at Google Developers Group Jalandhar
+<br>
 <img src="https://firebase.google.com/images/brand-guidelines/logo-built_white.png" width="200vh">
 [Demo Link](https://sharemythought-eb15d.firebaseapp.com/)
 
